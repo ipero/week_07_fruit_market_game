@@ -3,7 +3,7 @@
 jQuery is great! It allows us to do so many things! You and your group will need to flex everything you know about Javascript, jQuery, and Bootstrap to tackle this challenge.
 ## The Fruit Market
 
-[Completed Challenge Live Demo](https://pacific-chamber-99302.herokuapp.com)
+[Completed Challenge Live Demo](http://lavish-slope.surge.sh)
 
 For this challenge, you will be working with 4 commodities; Apples, Oranges, Bananas, and Grapes. Delicious, right?
 
