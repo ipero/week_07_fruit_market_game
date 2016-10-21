@@ -28,7 +28,7 @@ var cash=10000;
 
 //funciton begin first game
 function beginGame() {
-  timer = setInterval(priceUpdate, 15000);
+  timer = setInterval(priceUpdate, 3000);
   priceUpdate();
 }
 
